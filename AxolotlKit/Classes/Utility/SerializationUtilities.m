@@ -8,6 +8,8 @@
 
 #import "SerializationUtilities.h"
 
+#import <CommonCrypto/CommonCrypto.h>
+
 
 @implementation SerializationUtilities
 
